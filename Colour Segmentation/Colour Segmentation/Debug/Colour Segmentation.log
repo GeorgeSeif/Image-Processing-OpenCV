@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\alison\documents\visual studio 2015\projects\website\colour segmentation\colour segmentation\source.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\alison\documents\visual studio 2015\projects\website\colour segmentation\colour segmentation\source.cpp(12): warning C4018: '>': signed/unsigned mismatch
+  Colour Segmentation.vcxproj -> C:\Users\Alison\Documents\Visual Studio 2015\Projects\Website\Colour Segmentation\Debug\Colour Segmentation.exe
+  Colour Segmentation.vcxproj -> C:\Users\Alison\Documents\Visual Studio 2015\Projects\Website\Colour Segmentation\Debug\Colour Segmentation.pdb (Full PDB)

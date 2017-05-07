@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\alison\documents\visual studio 2015\projects\harris corner detector\harris corner detector\source.cpp(29): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alison\documents\visual studio 2015\projects\harris corner detector\harris corner detector\source.cpp(52): warning C4305: 'initializing': truncation from 'double' to 'float'
+opencv_core310d.lib(opencv_core310d.dll) : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'
