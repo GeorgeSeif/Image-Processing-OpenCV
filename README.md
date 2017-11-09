@@ -16,3 +16,4 @@ This repository contains a collection of various image processing programs using
 12. Harris Corner Detector
 13. Feature Detection and Matching
 14. Image Stitching
+15. Gamma Correction and White Balancing
